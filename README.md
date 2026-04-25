@@ -1,1 +1,1 @@
-gh repo clone ShacktarMalacky/mi-app-react-apk
+https://github.com/ShacktarMalacky/mi-app-react/blob/main/README.md
