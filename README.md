@@ -1,1 +1,1 @@
-# mi-app-react
+gh repo clone ShacktarMalacky/mi-app-react-apk
