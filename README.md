@@ -1,1 +1,0 @@
-https://github.com/ShacktarMalacky/mi-app-react/blob/main/README.md
